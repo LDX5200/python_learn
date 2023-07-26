@@ -8,3 +8,4 @@ def substr(s:str,x,y) -> str:
     #字符串切片
     print(s[x:y:1])
     return s[x:y:1]
+
